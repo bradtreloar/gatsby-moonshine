@@ -11,7 +11,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^2.18.8",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-mdx": "^1.0.67",
     "gatsby-theme-moonshine": "^1.0.0",
     "react": "^16.12.0",
